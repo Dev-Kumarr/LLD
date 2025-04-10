@@ -1,0 +1,15 @@
+idle state
+1. enter cash button click
+
+receive money state
+1. enter code button click
+2. insert coin
+3. get refund
+
+select product state
+1. enter code
+2. get change
+3. get full refund
+
+dispense product state
+1. dispense item

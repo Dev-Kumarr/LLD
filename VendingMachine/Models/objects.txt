@@ -1,0 +1,11 @@
+item
+
+itemshelf
+
+vending machine
+
+inventory
+
+--enums--
+item type
+coins
