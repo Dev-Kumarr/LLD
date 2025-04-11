@@ -1,0 +1,24 @@
+----------states----------
+idle state
+1. insert card
+
+has card state
+1. get pin
+2. get operation
+3. cancel transaction
+
+cash withdrawl state
+1. cash withdrawl
+
+check balance state
+1. check balance
+
+transaction complete state
+1. collect card
+
+----------objects----------
+ATM machine
+States
+Card
+User
+Bank account
