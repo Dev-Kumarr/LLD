@@ -1,3 +1,5 @@
+package SnakeLadderLLD;
+
 import java.util.Random;
 
 public class Dice {

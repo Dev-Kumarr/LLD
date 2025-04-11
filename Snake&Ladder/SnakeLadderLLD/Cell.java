@@ -1,3 +1,5 @@
+package SnakeLadderLLD;
+
 public class Cell {
     public int val;
     public JumpObj jump;

@@ -1,3 +1,5 @@
+package SnakeLadderLLD;
+
 public class JumpObj {
     public int start;
     public int end;

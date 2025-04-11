@@ -1,3 +1,5 @@
+package SnakeLadderLLD;
+
 public class Player {
     private String playerId;
     public String playerName;
